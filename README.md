@@ -7,7 +7,7 @@ My background in Software Engineering during high school and my current studies 
 Recently, I’ve been expanding my skills in project management and data science to broaden both my technical and strategic perspectives as a developer.
 
 
-## Find me around the web ![earth-icon](/assets/earth-icon.png):
-- Sharing professional updates on [a link](https://www.linkedin.com/in/fathan-alfariel) 💼
+## Find me around the web <img src="/assets/earth-icon.png" alt="earth-icon" />:
+- Sharing professional updates on <a href="https://www.linkedin.com/in/fathan-alfariel">LinkedIn</a> 💼
 - Exploring projects on <a href="https://fathanalfariel.vercel.app/">Portfolio Website</a> 💻
 - Contributing and showcasing code on <a href="https://github.com/fathan-alf">GitHub</a> 🐙
