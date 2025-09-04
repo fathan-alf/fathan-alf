@@ -11,3 +11,9 @@ Recently, I’ve been expanding my skills in project management and data science
 - Sharing professional updates on <a href="https://www.linkedin.com/in/fathan-alfariel">LinkedIn</a> 💼
 - Exploring projects on <a href="https://fathanalfariel.vercel.app/">Portfolio Website</a> 💻
 - Contributing and showcasing code on <a href="https://github.com/fathan-alf">GitHub</a> 🐙
+
+
+## Let's Connect! 🤝:
+I’m open to collaborating on impactful projects and exchanging ideas about technology and innovation. Don’t hesitate to connect with me!
+
+
